@@ -15,6 +15,13 @@ Read:<br>
 [Presentation of Hospital Management System](HOSPITAL_MANAGEMENT_SYSTEM.pdf)<br>
 [How to do penetration testing](How_to_do_penetration_testing.pdf)
 
+
+Made by:
+1. Md Shadman Shakib Dip
+2. Tasnim Jabir
+3. Shahedur Rahman Rafin
+
+
 ## Mission briefing
 
 This repo is a deliberately vulnerable hospital management app built with PHP and Oracle Database. It is designed for learning how insecure inputs get turned into dangerous SQL queries during ethical security testing.
